@@ -6,10 +6,8 @@ public class Program {
 
 
 		System.out.println("Bom dia!!!!");
-		
+		System.out.println("Espaços em branco");
 		System.out.println("teste teste ");
-		
-		
 	}
 
 }
